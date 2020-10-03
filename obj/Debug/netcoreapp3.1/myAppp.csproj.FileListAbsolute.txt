@@ -1,0 +1,13 @@
+C:\Users\user\Documents\odu c shp\myAppp\bin\Debug\netcoreapp3.1\myAppp.exe
+C:\Users\user\Documents\odu c shp\myAppp\bin\Debug\netcoreapp3.1\myAppp.deps.json
+C:\Users\user\Documents\odu c shp\myAppp\bin\Debug\netcoreapp3.1\myAppp.runtimeconfig.json
+C:\Users\user\Documents\odu c shp\myAppp\bin\Debug\netcoreapp3.1\myAppp.runtimeconfig.dev.json
+C:\Users\user\Documents\odu c shp\myAppp\bin\Debug\netcoreapp3.1\myAppp.dll
+C:\Users\user\Documents\odu c shp\myAppp\bin\Debug\netcoreapp3.1\myAppp.pdb
+C:\Users\user\Documents\odu c shp\myAppp\obj\Debug\netcoreapp3.1\myAppp.csprojAssemblyReference.cache
+C:\Users\user\Documents\odu c shp\myAppp\obj\Debug\netcoreapp3.1\myAppp.AssemblyInfoInputs.cache
+C:\Users\user\Documents\odu c shp\myAppp\obj\Debug\netcoreapp3.1\myAppp.AssemblyInfo.cs
+C:\Users\user\Documents\odu c shp\myAppp\obj\Debug\netcoreapp3.1\myAppp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\odu c shp\myAppp\obj\Debug\netcoreapp3.1\myAppp.dll
+C:\Users\user\Documents\odu c shp\myAppp\obj\Debug\netcoreapp3.1\myAppp.pdb
+C:\Users\user\Documents\odu c shp\myAppp\obj\Debug\netcoreapp3.1\myAppp.genruntimeconfig.cache
